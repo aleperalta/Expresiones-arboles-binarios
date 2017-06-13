@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\bin\Debug\ape_expresionesArbolesBinarios.exe.config
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\bin\Debug\ape_expresionesArbolesBinarios.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\bin\Debug\ape_expresionesArbolesBinarios.pdb
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.csprojResolveAssemblyReference.cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.frmPrincipal.resources
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.Properties.Resources.resources
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.csproj.GenerateResource.Cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_expresionesArbolesBinarios\ape_expresionesArbolesBinarios\obj\Debug\ape_expresionesArbolesBinarios.pdb
